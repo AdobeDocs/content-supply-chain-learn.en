@@ -6,7 +6,7 @@ user-guide-description: View Experience League tutorials on Adobe Content Supply
 
 # Adobe Content Supply Chain tutorials {#tutorials}
 
-+ [[!DNL GenStudio] Tutorials](overview.md)
++ [[!DNL Content supply chain] Tutorials](overview.md)
 + [Workflow and planning](workflow-and-planning.md)
 + [Creative productivity](creative-productivity.md)
 + [Creative productivity with AEM Assets](creative-productivity-aemassets.md)
