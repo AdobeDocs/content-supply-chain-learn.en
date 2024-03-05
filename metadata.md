@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: GenStudio
+solution: Experience Cloud
 type: Tutorial
 topic: Content Supply Chain
 feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, Experience Manager Sites, Experience Manager Assets, GenStudio
