@@ -74,7 +74,6 @@ A content supply chain brings together people, tools, and workstreams to effecti
     </tr>
 </table>
 
-
 ## Additional resources
 
 * [Experience League Events](https://experienceleague.adobe.com/events/)
