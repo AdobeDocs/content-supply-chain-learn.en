@@ -1,31 +1,35 @@
 ---
-title: Workflow and planning tutorials
-description: Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
-solution: Experience Cloud, Workfront, Creative Cloud
-feature-set: Creative Cloud, Workfront
-feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+title: Content creation and production tutorials
+description: Accelerate ideation and creation with powerful generative AI and seamless collaboration tools integrated with Creative Cloud. Adobe brings together industry-leading creative technology with groundbreaking AI to unleash creativity, scale production, and maintain creative quality.
+solution: Experience Cloud, Creative Cloud
+feature-set: Creative Cloud
+feature: Gen AI
 topic: Content Management, Collaboration
 role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
-jira: KT-14154
+jira: KT-14155
 ---
 
-# Content supply chain | Workflow and planning tutorials
+# Content supply chain | Content creation and production tutorials
 
-Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
+Accelerate ideation and creation with powerful generative AI and seamless collaboration tools integrated with Creative Cloud. Adobe brings together industry-leading creative technology with groundbreaking AI to unleash creativity, scale production, and maintain creative quality.
 
-The Adobe solutions used for workflow and planning:
+The Adobe solutions used for content creation:
 
 <table>
     <tr style="border: 0;">
       <td style="align: center">
-        <p style="margin: 0"><img alt="Workfront" src="/help/assets/workfront-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Workfront</strong>
+        <p style="margin: 0"><img alt="Workfront" src="/help/assets/adobe-express-logo.png" style="width: 42px;height:  42px;"></p>
+        <strong>Express</strong>
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Frame.io</strong>
+      </td>
+      <td style="align: center">
+        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/cce-logo.png" style="width: 42px;height:42px;"></p>
+        <strong>Creative Cloud</strong>
       </td>
     </tr>
 </table>

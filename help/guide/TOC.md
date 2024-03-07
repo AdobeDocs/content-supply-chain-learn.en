@@ -1,14 +1,18 @@
 ---
-user-guide-title: Adobe Content Supply Chain tutorials
-breadcrumb-title: Supply Chain Tutorials
-user-guide-description: View Experience League tutorials on Adobe Content Supply Chain, an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
+user-guide-title: Adobe Content supply chain tutorials
+breadcrumb-title: Content supply chain Tutorials
+user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer. 
 ---
 
-# Adobe Content Supply Chain tutorials {#tutorials}
+# Adobe Content supply chain tutorials {#tutorials}
 
 + [[!DNL Content supply chain] Tutorials](overview.md)
 + [Workflow and planning](workflow-and-planning.md)
-+ [Creative productivity](creative-productivity.md)
-+ [Creative productivity with AEM Assets](creative-productivity-aemassets.md)
-+ [Marketing agility](marketing-agility.md)
++ [Content creation and production](content-creation-and-production.md)
++ [Asset management](asset-management.md)
 + [Delivery and activation](delivery-and-activation.md)
++ [Reporting and insights](reporting-and-insights.md)
++ hidden {#hidden}
+  + [Creative productivity](creative-productivity.md)
+  + [Creative productivity with AEM Assets](creative-productivity-aemassets.md)
+  + [Marketing agility](marketing-agility.md)

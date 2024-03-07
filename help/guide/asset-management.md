@@ -1,31 +1,27 @@
 ---
-title: Workflow and planning tutorials
-description: Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
-solution: Experience Cloud, Workfront, Creative Cloud
-feature-set: Creative Cloud, Workfront
-feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+title: Asset management tutorials
+description: For the company struggling to connect and track their  content requirements through the planning process to content production and  completion. Lack of effective process, planning, approvals, and data  consistency across projects is robbing this company's content supply chain of  both productivity and efficiency.
+solution: Experience Cloud, Experience Manager Assets
+feature-set: Experience Manager, Experience Manager Assets
+feature: Asset Management, Asset Processing, Gen AI
 topic: Content Management, Collaboration
 role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
-jira: KT-14154
+jira: KT-15076
 ---
 
-# Content supply chain | Workflow and planning tutorials
+#  Content supply chain | Asset management tutorials
 
-Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
+Easily access and reuse millions of assets from a single, cloud-based solution while ensuring brand consistency.
 
-The Adobe solutions used for workflow and planning:
+The Adobe solutions used for asset management:
 
 <table>
     <tr style="border: 0;">
       <td style="align: center">
-        <p style="margin: 0"><img alt="Workfront" src="/help/assets/workfront-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Workfront</strong>
-      </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>Frame.io</strong>
+        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
+        <strong>AEM Assets</strong>
       </td>
     </tr>
 </table>
