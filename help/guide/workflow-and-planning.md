@@ -4,7 +4,7 @@ description: Build streamlined and transparent workflows across the entire conte
 solution: Experience Cloud, Workfront, Creative Cloud
 feature-set: Creative Cloud, Workfront
 feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06

@@ -3,8 +3,7 @@ title: Workflow and Planning -  Streamline and accelerate work
 description: Measure content performance across the entire customer journey, aligned with your business metrics.
 solution: Experience Cloud, Customer Journey Analytics, Analytics
 feature-set: Experience Cloud, Customer Journey Analytics, Analytics
-feature: Gen AI
-topic: Content Management, Collaboration
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
