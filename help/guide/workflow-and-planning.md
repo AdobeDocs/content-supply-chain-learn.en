@@ -247,5 +247,6 @@ The Adobe solutions used for workflow and planning:
 -->
 
 ## Additional resources
+
 * [Experience League Events](https://experienceleague.adobe.com/events/)
 * [Adobe on the content supply chain](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
