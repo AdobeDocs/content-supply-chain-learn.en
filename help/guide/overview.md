@@ -1,78 +1,22 @@
 ---
-title: Adobe Content Supply Chain 
-description: Adobe Content Supply Chain is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
+title: Adobe Content supply chain 
+description: Adobe Content supply chain is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
 ---
 
-# Adobe Content Supply Chain Tutorials
+# Adobe Content supply chain Tutorials
 
->[!BEGINSHADEBOX]
-
-Adobe's tools for content supply chain help accelerates your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
-
->[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
+Adobe's tools for content supply chain help accelerate your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
 
 A content supply chain brings together people, tools, and workstreams to effectively plan, create, produce, deliver, and measure content. With customers demanding higher quality experiences at an increasingly faster pace, coupled with the complexity of multiple channels and formats, brands need to revolutionize the way they think about content.
 
->[!ENDSHADEBOX]
+Learn how to supercharge your end-to-end content creation and delivery process with the power of generative AI through these tutorials. 
 
-<table>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <img alt="Workflow and Planning" src="./../assets/planning-workflow.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <strong>Workflow and Planning</strong>
-        </a>
-        </div>
-        <p>
-        <em>Streamlining and orchestrating work</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <img alt="Creative Productivity" src="./../assets/creative-productivity.png">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <strong>Creative Productivity</strong>
-        </a>
-        </div>
-        <p>
-        <em>Supercharging creative teams</em>
-        <p>
-      </td>
-    </tr>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <img alt="Marketing Agility" src="./../assets/marketing-agility.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <strong>Marketing Agility</strong>
-        </a>
-        </div>
-        <p>
-        <em>Empowering marketers and other teams to get content to  market quickly</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <img alt="Delivery and Activation" src="./../assets/content-activation-analytics.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <strong>Delivery and Activation</strong>
-        </a>
-        </div>
-        <p>
-        <em>Enabling delivery and performance</em>
-        <p>
-      </td>
-    </tr>
-</table>
+
+* [Workflow and Planning](workflow-and-planning.md) - Build connected workflows that are transparent, fast, and efficient. 
+* [Content Creation and Production](content-creation-and-production.md) - Transform creative work with Generative AI, automate content variations at scale, and empower marketers to create on-brand content. 
+* [Asset Management](asset-management.md) - Centralize, manage and govern millions of assets across your organization. 
+* [Delivery and Activation](delivery-and-activation.md) - Seamlessly deliver content across every step of the customer journey.  
+* [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. 
 
 ## Additional resources
 

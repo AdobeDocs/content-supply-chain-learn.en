@@ -9,6 +9,7 @@ role: Admin, User, Leader
 level: Beginner
 last-substantial-update: 2023-11-16
 jira: KT-14155
+hidefromtoc: true
 ---
 
 # Creative productivity: Supercharge creative teams

@@ -1,31 +1,32 @@
 ---
-title: Workflow and planning tutorials
-description: Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
-solution: Experience Cloud, Workfront, Creative Cloud
-feature-set: Creative Cloud, Workfront
-feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+title: Workflow and Planning -  Streamline and accelerate work
+description: Measure content performance across the entire customer journey, aligned with your business metrics.
+solution: Experience Cloud, Customer Journey Analytics, Analytics
+feature-set: Experience Cloud, Customer Journey Analytics, Analytics
+feature: Gen AI
 topic: Content Management, Collaboration
 role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
-jira: KT-14154
+jira: KT-15077
+hidefromtoc: true
 ---
 
-# Content supply chain | Workflow and planning tutorials
+# Reporting and insights tutorials
 
-Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
+Measure content performance across the entire customer journey, aligned with your business metrics.
 
-The Adobe solutions used for workflow and planning:
+The Adobe solutions used for planning and workflow:
 
 <table>
     <tr style="border: 0;">
       <td style="align: center">
-        <p style="margin: 0"><img alt="Workfront" src="/help/assets/workfront-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Workfront</strong>
+        <p style="margin: 0"><img alt="Customer Journey Analytics" src="/help/assets/ajo-logo.png" style="width: 42px;height:  42px;"></p>
+        <strong>Customer Journey Analytics</strong>
       </td>
       <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>Frame.io</strong>
+        <p style="margin: 0"><img alt="Analytics" src="/help/assets/analytics-logo.png" style="width: 42px;height:42px;"></p>
+        <strong>Analytics</strong>
       </td>
     </tr>
 </table>

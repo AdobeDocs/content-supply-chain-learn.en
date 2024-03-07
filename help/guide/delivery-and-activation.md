@@ -1,39 +1,43 @@
 ---
-title: Delivery and Activation - power experiences and performance
-description: For the company that needs support getting the right content in front of the right individual on the right channel. Content Supply Chain makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
+title: Delivery and activation tutorials
+description: Power experiences and performance of content & campaigns.  Fast asset activation & better content performance 
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature: Gen AI
 topic: Content Management, Collaboration, Personalization
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16
+last-substantial-update: 2024-03-06
 jira: KT-14157
 ---
 
-# Delivery and activation: power experiences and performance
+# Content supply chain | Delivery and activation tutorials
 
-For the company that needs support getting the right content in front of the right individual on the right channel. Content Supply Chain makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.
-
-## Primary business use cases
-
-* Easily find and reuse assets
-* Rapidly create & publish high-impact experiences
-* Instantly generate & test copy
-* Deploy relevant, personalized experiences across channels
+Power experiences and performance of content & campaigns.  Fast asset activation & better content performance 
 
 The Adobe solutions used for content activation and analytics:
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Target" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Target</strong>
       </td>
     </tr>
 </table>
