@@ -6,7 +6,7 @@ user-guide-desription: View Experience League tutorials on Adobe Content supply 
 
 # Adobe Content supply chain tutorials {#tutorials}
 
-+ [[!DNL Content supply chain] Tutorials](overview.md)
++ [[!DNL Content supply chain] tutorials](overview.md)
 + [Workflow and planning](workflow-and-planning.md)
 + [Content creation and production](content-creation-and-production.md)
 + [Asset management](asset-management.md)
