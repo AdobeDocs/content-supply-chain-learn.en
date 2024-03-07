@@ -3,7 +3,7 @@ title: Adobe Content supply chain
 description: Adobe Content supply chain is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
 ---
 
-# Adobe Content supply chain Tutorials
+# Adobe Content supply chain tutorials
 
 Adobe's tools for content supply chain help accelerate your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
 
@@ -16,7 +16,9 @@ Learn how to supercharge your end-to-end content creation and delivery process w
 * [Content Creation and Production](content-creation-and-production.md) - Transform creative work with Generative AI, automate content variations at scale, and empower marketers to create on-brand content. 
 * [Asset Management](asset-management.md) - Centralize, manage and govern millions of assets across your organization. 
 * [Delivery and Activation](delivery-and-activation.md) - Seamlessly deliver content across every step of the customer journey.  
-* [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. 
+* *Reporting and Insights* - Enhance content ROI by improving content usage and performance.  
+
+<!-- * [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## Additional resources
 

@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Content supply chain tutorials
-breadcrumb-title: Content supply chain Tutorials
+breadcrumb-title: Content supply chain tutorials
 user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer. 
 ---
 

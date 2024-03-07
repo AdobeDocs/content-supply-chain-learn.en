@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-06
 jira: KT-14157
 ---
 
-# Content supply chain | Delivery and activation tutorials
+# Delivery and activation tutorials
 
 Power experiences and performance of content & campaigns.  Fast asset activation & better content performance 
 

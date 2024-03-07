@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-06
 jira: KT-15076
 ---
 
-# Content supply chain | Asset management tutorials
+# Asset management tutorials
 
 Easily access and reuse millions of assets from a single, cloud-based solution while ensuring brand consistency.
 

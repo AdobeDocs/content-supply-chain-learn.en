@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-06
 jira: KT-14154
 ---
 
-# Content supply chain | Workflow and planning tutorials
+# Workflow and planning tutorials
 
 Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.
 
