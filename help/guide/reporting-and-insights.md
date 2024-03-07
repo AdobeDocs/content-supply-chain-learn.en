@@ -30,6 +30,10 @@ The Adobe solutions used for planning and workflow:
     </tr>
 </table>
 
+>[!TIP]
+>
+>Our team of Adobe product experts have assembled a collection of integration tutorials for key Content supply chain use cases. If you are using more than one solution, learn the best way to integrate them!  Check out the [Content supply chain integration tutorials](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+
 ## Recommended courses
 
 <table style="margin-top:0 !important">
