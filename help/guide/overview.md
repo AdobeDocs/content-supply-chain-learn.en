@@ -1,24 +1,23 @@
 ---
-title: Adobe Content supply chain 
-description: Adobe Content supply chain is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
+title: Adobe [!DNL Content Supply Chain] Tutorials 
+description: Accelerate and simplify your content with generative AI and intelligent automation. Adobe's content supply chain is an an end-to-end solution that enables you to plan, create, deliver, and analyze your content.
 ---
 
-# Adobe Content supply chain tutorials
+# Adobe [!DNL Content Supply Chain] Tutorials
 
-Adobe's tools for content supply chain help accelerate your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market and improve content ROI and efficiency.
+Adobe's tools for content supply chain help accelerate your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market, and improve content ROI and efficiency.
 
 A content supply chain brings together people, tools, and workstreams to effectively plan, create, produce, deliver, and measure content. With customers demanding higher quality experiences at an increasingly faster pace, coupled with the complexity of multiple channels and formats, brands need to revolutionize the way they think about content.
 
-Learn how to supercharge your end-to-end content creation and delivery process with the power of generative AI through these tutorials. 
+The following tutorials help you supercharge your end-to-end content creation and delivery process with the power of generative AI.
 
+* [Workflow and planning](workflow-and-planning.md) - Build connected workflows that are transparent, fast, and efficient. 
+* [Content creation and production](content-creation-and-production.md) - Transform creative work with Generative AI, automate content variations at scale, and empower marketers to create on-brand content. 
+* [Asset management](asset-management.md) - Centralize, manage and govern millions of assets across your organization. 
+* [Delivery and activation](delivery-and-activation.md) - Seamlessly deliver content across every step of the customer journey.  
+* *Reporting and insights* - Enhance content ROI by improving content usage and performance.  
 
-* [Workflow and Planning](workflow-and-planning.md) - Build connected workflows that are transparent, fast, and efficient. 
-* [Content Creation and Production](content-creation-and-production.md) - Transform creative work with Generative AI, automate content variations at scale, and empower marketers to create on-brand content. 
-* [Asset Management](asset-management.md) - Centralize, manage and govern millions of assets across your organization. 
-* [Delivery and Activation](delivery-and-activation.md) - Seamlessly deliver content across every step of the customer journey.  
-* *Reporting and Insights* - Enhance content ROI by improving content usage and performance.  
-
-<!-- * [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
+<!-- * [Reporting and insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## Additional resources
 
