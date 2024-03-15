@@ -17,18 +17,8 @@ Build streamlined and transparent workflows across the entire content lifecycle.
 
 The Adobe solutions used for workflow and planning:
 
-<table>
-    <tr style="border: 0;">
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Workfront" src="/help/assets/workfront-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Workfront</strong>
-      </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>Frame.io</strong>
-      </td>
-    </tr>
-</table>
+* Adobe Workfront
+* Adobe Frame.io
 
 >[!TIP]
 >
