@@ -21,6 +21,7 @@ Easily access and reuse millions of assets from a single, cloud-based solution w
 >Our team of Adobe product experts have assembled a collection of integration tutorials for key Content supply chain use cases. If you are using more than one solution, learn the best way to integrate them!  Check out the [Content supply chain integration tutorials](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Recommended courses
+
 <div class="columns is-multiline">
   <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="[AEM Assets - Assets View] Bulk Import - Feature Video" tabIndex="0">
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
