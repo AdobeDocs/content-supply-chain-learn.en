@@ -1,8 +1,8 @@
 ---
-title: Adobe [!DNL Content Supply Chain] Tutorials 
+title: Adobe [!DNL Content Supply Chain] Tutorials
 description: Accelerate and simplify your content with generative AI and intelligent automation. Adobe's content supply chain is an an end-to-end solution that enables you to plan, create, deliver, and analyze your content.
+exl-id: 1dd1c04e-d405-4593-bcff-40d1d579958c
 ---
-
 # Adobe [!DNL Content Supply Chain] Tutorials
 
 Adobe's tools for content supply chain help accelerate your organization's ability to execute by empowering your team to scale content creation with Generative AI, increase team agility and speed to market, and improve content ROI and efficiency.

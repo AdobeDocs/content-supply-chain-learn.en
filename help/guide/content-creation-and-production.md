@@ -9,8 +9,8 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
 jira: KT-14155
+exl-id: cf124c6b-b6d9-4338-8c4d-dae6722f97d4
 ---
-
 # Content creation and production tutorials
 
 Accelerate ideation and creation with powerful generative AI and seamless collaboration tools integrated with Creative Cloud. Adobe brings together industry-leading creative technology with groundbreaking AI to unleash creativity, scale production, and maintain creative quality.

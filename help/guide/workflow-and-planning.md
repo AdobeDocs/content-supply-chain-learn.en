@@ -9,8 +9,8 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
 jira: KT-14154
+exl-id: ce56c21c-1d75-4694-91a8-06c1b1067026
 ---
-
 # Workflow and planning tutorials
 
 Build streamlined and transparent workflows across the entire content lifecycle.  Accelerate the review and approval process.  Automate manual workflows.

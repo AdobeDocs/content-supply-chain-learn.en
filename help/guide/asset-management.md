@@ -9,8 +9,8 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06
 jira: KT-15076
+exl-id: 61a02beb-7869-408b-8024-31e8b46f9f7a
 ---
-
 # Asset management tutorials
 
 Easily access and reuse millions of assets from a single, cloud-based solution while ensuring brand consistency.  These tutorials focus on the use of Adobe Experience Manager Assets.

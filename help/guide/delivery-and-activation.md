@@ -1,6 +1,6 @@
 ---
 title: Delivery and activation tutorials
-description: Power experiences and performance of content & campaigns.  Fast asset activation & better content performance 
+description: Power experiences and performance of content & campaigns.  Fast asset activation & better content performance
 solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
 feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
 topic: Content Management, Collaboration, Personalization, Artificial Intelligence
@@ -8,8 +8,8 @@ role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
 last-substantial-update: 2024-03-06
 jira: KT-14157
+exl-id: 36b8569a-21a4-40da-ae24-e6b0ca2a0463
 ---
-
 # Delivery and activation tutorials
 
 Power experiences and performance of content & campaigns.  Fast asset activation & better content performance 

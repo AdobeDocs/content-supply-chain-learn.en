@@ -9,8 +9,8 @@ level: Beginner
 last-substantial-update: 2024-03-06
 jira: KT-15077
 hidefromtoc: true
+exl-id: 143fe064-bb49-4f66-936a-813edbf0b95a
 ---
-
 # Reporting and insights tutorials
 
 Measure content performance across the entire customer journey, aligned with your business metrics.

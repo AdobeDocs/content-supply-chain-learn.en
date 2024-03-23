@@ -10,8 +10,8 @@ level: Beginner
 last-substantial-update: 2023-11-16
 jira: KT-14156
 hidefromtoc: true
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
 ---
-
 # Marketing agility: Empower non-creatives to scale
 
 With Adobe Content Supply Chain tools sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.
