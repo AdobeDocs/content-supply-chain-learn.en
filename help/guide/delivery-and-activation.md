@@ -85,7 +85,7 @@ The Adobe solutions used for content activation and analytics:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Assets Essentials Overvie">Assets Essentials Overvie</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Assets Essentials Overvie">Assets Essentials Overview</a>
           </p>
           <p class="is-size-6">Get an overview over the Assets Essentials features and how it can be used in Adobe Journey Optimizer.</p>
         </div>
