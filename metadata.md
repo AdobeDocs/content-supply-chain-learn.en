@@ -3,7 +3,7 @@ cloud: Experience Cloud
 solution: Experience Cloud
 type: Tutorial
 topic: Content Supply Chain
-feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, Experience Manager Sites, Experience Manager Assets, GenStudio
+feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, Experience Manager Sites, Experience Manager Assets, GenStudio for Performance Marketing
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/content-supply-chain-learn.en
 index: no
